@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+header a {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 50px;
+}
+h1 {
+    color: blueviolet;
+    background-color: lightblue;
+    border-radius: 22px;
+    border: 1px solid black;
+    font-size: 34px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+footer {
+    background-color: burlywood;
+    padding: 5px;
+}
+footer p {
+    background-color: white;
+}
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(168, 150, 150);
+}
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+h2 {
+    color: blue;
+}
+
